@@ -1,0 +1,12 @@
+case_month,res_state,state_fips_code,res_county,county_fips_code,age_group,sex,race,ethnicity,process,exposure_yn,current_status,symptom_status,hosp_yn,icu_yn,death_yn,case_positive_specimen,case_onset_interval,underlying_conditions_yn
+2021-01,PA,42,BUTLER,42019,65+ years,Male,White,Unknown,Missing,Missing,Probable Case,Unknown,Yes,Unknown,Yes,,,
+2021-01,PA,42,BUTLER,42019,65+ years,Male,White,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,Yes,0.0,,
+2021-01,PA,42,BUTLER,42019,65+ years,Male,White,Unknown,Missing,Missing,Probable Case,Symptomatic,Yes,Yes,Yes,,0.0,Yes
+2021-01,PA,42,BUTLER,42019,65+ years,Male,White,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,Yes,0.0,,
+2021-01,PA,42,BUTLER,42019,65+ years,Male,White,Unknown,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,Yes,0.0,,
+2021-01,PA,42,BUTLER,42019,65+ years,Male,White,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,Yes,0.0,,
+2021-01,PA,42,BUTLER,42019,65+ years,Male,White,Unknown,Missing,Missing,Probable Case,Unknown,Unknown,Unknown,Yes,,,
+2021-01,PA,42,BUTLER,42019,65+ years,Male,White,Unknown,Missing,Yes,Probable Case,Unknown,Unknown,Unknown,Yes,,,
+2021-01,PA,42,BUTLER,42019,65+ years,Male,White,Unknown,Missing,Missing,Probable Case,Unknown,Yes,Unknown,Yes,,,
+2021-01,PA,42,BUTLER,42019,65+ years,Male,White,Unknown,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,Yes,0.0,,
+2021-01,PA,42,BUTLER,42019,65+ years,Male,White,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,Yes,No,Yes,0.0,,Yes

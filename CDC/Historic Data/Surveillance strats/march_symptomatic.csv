@@ -1,0 +1,6 @@
+age_group,symptom_status,symptom_status
+18 to 49 years,Symptomatic,45
+18 to 49 years,Unknown,1
+50 to 64 years,Symptomatic,41
+50 to 64 years,Unknown,1
+65+ years,Symptomatic,23

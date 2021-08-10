@@ -1,0 +1,227 @@
+case_month,res_state,state_fips_code,res_county,county_fips_code,age_group,sex,race,ethnicity,process,exposure_yn,current_status,symptom_status,hosp_yn,icu_yn,death_yn,case_positive_specimen,case_onset_interval,underlying_conditions_yn
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,1.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,1.0,0.0,
+2020-08,PA,45,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Missing,No,,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,1.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Missing,Probable Case,Symptomatic,No,No,,,0.0,Yes
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,2.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,1.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,1.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,37.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,No,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Yes,Probable Case,Symptomatic,No,No,No,,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,1.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Yes,Probable Case,Symptomatic,No,No,No,,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,No,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,1.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Yes,Probable Case,Symptomatic,No,No,No,,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,12.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,No,,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,No,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,23.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,No,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Male,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Unknown,No,No,No,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,Unknown,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,,,Missing,Yes,Probable Case,Symptomatic,No,No,No,,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,Unknown,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,15.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,1.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,39.0,0.0,
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,1.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,9.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,,0.0,,
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,21.0,0.0,
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,,Yes
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,12.0,0.0,
+2020-08,PA,42,BUTLER,42019,,,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,Unknown,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Unknown,No,No,No,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,Unknown,1.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,23.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,No,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,12.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,Unknown,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,Unknown,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,37.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,Unknown,12.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,No,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,-1.0,49.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,Unknown,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,Unknown,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,Unknown,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,21.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Unknown,Missing,Yes,Laboratory-confirmed case,Unknown,No,No,,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Unknown,Missing,Yes,Probable Case,Symptomatic,No,No,,,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,-2.0,2.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Unknown,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,-1.0,27.0,
+2020-08,PA,42,BUTLER,42019,65+ years,Female,,,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,65+ years,Female,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,1.0,0.0,
+2020-08,PA,42,BUTLER,42019,65+ years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,Yes,No,No,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,65+ years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,2.0,0.0,
+2020-08,PA,42,BUTLER,42019,65+ years,Female,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,1.0,0.0,
+2020-08,PA,42,BUTLER,42019,65+ years,Female,,,Missing,Yes,Probable Case,Symptomatic,No,No,No,,0.0,Yes
+2020-08,PA,42,BUTLER,42019,65+ years,Female,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,65+ years,Female,,,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,65+ years,Female,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0.0,,
+2020-08,PA,42,BUTLER,42019,65+ years,Female,,,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,65+ years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,1.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,65+ years,Female,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,1.0,0.0,
+2020-08,PA,42,BUTLER,42019,65+ years,Female,,,Missing,Yes,Laboratory-confirmed case,Unknown,No,No,No,0.0,,Yes
+2020-08,PA,42,BUTLER,42019,65+ years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,65+ years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,65+ years,Male,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,Yes,,1.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,65+ years,Male,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,No,,0.0,,
+2020-08,PA,42,BUTLER,42019,65+ years,Male,,,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,65+ years,Male,,,Missing,Yes,Laboratory-confirmed case,Unknown,No,No,,0.0,,Yes
+2020-08,PA,42,BUTLER,42019,65+ years,Male,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,,2.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,No,,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Yes,Probable Case,Symptomatic,No,No,No,,0.0,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Missing,Probable Case,Symptomatic,Yes,Yes,No,,0.0,Yes
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,No,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,Yes,No,No,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Yes,Probable Case,Symptomatic,No,No,No,,0.0,Yes
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,No,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Male,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,65+ years,Male,,,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,65+ years,Male,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,Yes,No,,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,65+ years,Male,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,No,,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,65+ years,Male,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,Yes,Yes,,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,65+ years,Male,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,65+ years,Male,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,65+ years,Male,,,Missing,Missing,Laboratory-confirmed case,Unknown,No,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,65+ years,Male,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,Yes,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,65+ years,Male,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,65+ years,Male,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,Yes,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,White,,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,22.0,0.0,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,White,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,White,,Missing,Missing,Probable Case,Symptomatic,Yes,No,,,0.0,Yes
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,White,,Missing,Yes,Probable Case,Symptomatic,No,No,,,0.0,Yes
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,White,,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,White,,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,11.0,0.0,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,White,,Missing,Yes,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,0.0,28.0,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,White,,Missing,Missing,Laboratory-confirmed case,Symptomatic,Yes,No,,1.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,White,,Missing,Yes,Laboratory-confirmed case,Unknown,No,No,,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,White,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,White,,Missing,Yes,Laboratory-confirmed case,Symptomatic,Yes,No,,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,White,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,0 - 17 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,0 - 17 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,0 - 17 years,Female,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,0 - 17 years,Female,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,0 - 17 years,Female,,,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,-1.0,39.0,
+2020-08,PA,42,BUTLER,42019,0 - 17 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,0 - 17 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,Yes,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,0 - 17 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,0 - 17 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,0 - 17 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,0 - 17 years,Female,,,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,0 - 17 years,Female,,,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,0 - 17 years,Female,,,Missing,Yes,Probable Case,Symptomatic,No,No,No,,0.0,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,16.0,0.0,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,,2.0,0.0,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,,0.0,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,,1.0,0.0,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,,0.0,,Yes
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,Unknown,Unknown,,21.0,0.0,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,,1.0,0.0,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Unknown,Unknown,Unknown,,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Unknown,No,No,,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,Unknown,Unknown,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,,0.0,,
+2020-08,PA,42,BUTLER,42019,50 to 64 years,Female,Unknown,Unknown,Missing,Missing,Laboratory-confirmed case,Symptomatic,No,No,,1.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,Unknown,No,0.0,0.0,Yes
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,1.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Probable Case,Symptomatic,No,No,No,,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,,
+2020-08,PA,42,BUTLER,42019,18 to 49 years,Female,White,Non-Hispanic/Latino,Missing,Yes,Laboratory-confirmed case,Symptomatic,No,No,No,0.0,0.0,Yes
