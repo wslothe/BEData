@@ -1,0 +1,12 @@
+age_group,hosp_yn,January,February,March,April,May,June,July
+0 - 17 years,No,139,67,95,94,38,3.0,7
+0 - 17 years,Unknown,164,88,166,212,109,17.0,4
+18 to 49 years,No,192,129,199,176,65,10.0,14
+18 to 49 years,Unknown,1245,421,575,642,226,78.0,14
+18 to 49 years,Yes,2,3,3,7,2,,1
+50 to 64 years,No,95,54,96,49,34,3.0,19
+50 to 64 years,Unknown,676,200,272,240,121,32.0,6
+50 to 64 years,Yes,6,2,6,11,2,4.0,2
+65+ years,No,69,89,64,57,24,2.0,4
+65+ years,Unknown,308,158,265,44,14,7.0,6
+65+ years,Yes,23,26,18,23,6,3.0,1

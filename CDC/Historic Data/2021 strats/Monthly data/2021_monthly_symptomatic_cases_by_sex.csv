@@ -1,0 +1,5 @@
+sex,symptom_status,January,February,March,April,May,June,July
+Female,Symptomatic,300,206,287,233,100,14,22
+Female,Unknown,1234,444,610,537,211,65,17
+Male,Symptomatic,255,181,268,203,85,20,17
+Male,Unknown,1130,394,594,571,245,60,11

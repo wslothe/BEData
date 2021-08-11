@@ -1,0 +1,6 @@
+,Cases,Symptomatic cases,Hospitalizations,ICU admissions,Deaths
+0 - 17 years,1203.0,558.0,,,
+18 to 49 years,4004.0,862.0,18.0,3.0,18.0
+50 to 64 years,1930.0,394.0,33.0,5.0,33.0
+65+ years,1211.0,395.0,100.0,12.0,100.0
+Missing,,,,,
