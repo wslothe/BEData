@@ -56,6 +56,27 @@ prtcounty = (updated + prtnewcase + prtnewrate + prtsevenavg + prtsevenavgrate +
 ctyfile = open("new_county_data.txt", "w")
 ctyfile.write(prtcounty)
 ctyfile.close()
+##getting shit ready for markdown
+mdheader = ("###Butler County COVID-19 data")
+lb = ("\n" + "\n")
+mdupdated = ("####Updated: " + dayofweek)
+mdnewcase = ("- New cases in Butler County: " + newcases)
+mdnewrate = ("- New cases per 100k: " + newcaserate)
+mdsevenavg = ("- Seven-day average: " + sevenavg)
+mdsevenavgrate = ("- Seven-day average per 100k: " + sevenavgrate)
+mdcumecases = ("- Total cases in Butler County: " + cumecases)
+mdcumerate = ("- Cumulative incidence in Butler County: " + cumerate)
+vaxhead = "#####Vaccine data"
+mdnewptlvax = ("- Newly partially vaccinated individuals: " + newptlvax)
+mdtotptlvax = ("- Partially vaccinated individuals: " + totptlvax)
+mdptlvaxrate = ("- Partially vaccinated individuals per 100k: " + ptlvaxrate)
+mdnewfullvax = ("- Newly fully vaccinated individuals: " + newfullvax)
+mdfullvax = ("- Fully vaccinated individuals: " + totfullvax)
+mdfullvaxrate = ("- Fully vaccinated individuals per 100k: " + fullvaxrate)
+mdcounty = (mdheader + lb + lb + mdupdated + lb + mdnewcase + lb + mdnewrate + lb + mdsevenavg + lb + mdsevenavgrate + lb + mdcumecases + lb +
+            mdcumerate + lb + vaxhead + lb + lb + mdnewptlvax + lb + mdtotptlvax + lb + mdptlvaxrate + lb + mdnewfullvax + lb + mdfullvax + lb +
+            mdfullvaxrate)
+#writing markdown to readme
 ctymd = open(r"C:\Users\aweidenhof\Documents\GitHub\BEData\readme.md", "w")
-ctymd.write(prtcounty)
+ctymd.write(mdcounty)
 ctymd.close()
