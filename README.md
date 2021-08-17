@@ -1,8 +1,8 @@
-###Butler County COVID-19 data
+### Butler County COVID-19 data
 
 
 
-####Updated: Monday, Aug. 16, 2021
+#### Updated: Monday, Aug. 16, 2021
 
 - New cases in Butler County: 27
 
@@ -16,7 +16,7 @@
 
 - Cumulative incidence in Butler County: 9699.6
 
-#####Vaccine data
+#### Vaccine data
 
 
 
