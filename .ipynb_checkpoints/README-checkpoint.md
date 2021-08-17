@@ -12,11 +12,9 @@
 
 - Seven-day average per 100k: 17.2
 
-- Ten-day new cases: 282
+- Ten-day new cases: [27, 51, 39, 27, 35, 20, 27, 15, 20, 21]
 
-- Ten-day cases per 100k: 145.53862192472246
-
-- Total cases in Butler County: 18221
+- Ten-day cases per 100k: 0.0014553862192472247- Total cases in Butler County: 18221
 
 - Cumulative incidence in Butler County: 9699.6
 

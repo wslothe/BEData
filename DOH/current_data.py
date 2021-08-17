@@ -10,11 +10,11 @@ yesterday = yesterday.strftime("%Y%m%d")
 #putting that into a more readable format
 dayofweek = time.strftime("%A, %b. %d, %Y")
 #input new data as dataframes
-ctycasename = (today + "_county_cases.csv")
+ctycasename = ("C:\\users\\aweidenhof\\Documents\\GitHub\\BEData\\DOH\\Data\\" + today + "_county_cases.csv")
 ctycases = pd.read_csv(ctycasename)
-ctynewvaxname = (today + "_county_daily_vax.csv")
+ctynewvaxname = ("C:\\users\\aweidenhof\\Documents\\GitHub\\BEData\\DOH\\Data\\" + today + "_county_daily_vax.csv")
 ctynewvax = pd.read_csv(ctynewvaxname)
-ctytotvaxname = (today + "_county_cumulative_vax.csv")
+ctytotvaxname = ("C:\\users\\aweidenhof\\Documents\\GitHub\\BEData\\DOH\\Data\\" + today + "_county_cumulative_vax.csv")
 ctytotvax = pd.read_csv(ctytotvaxname)
 #defining our function
 def getnum(file, row, dataname):
@@ -33,8 +33,14 @@ totptlvax = getnum(ctytotvax, 2, 'totptlvax')
 ptlvaxrate = getnum(ctytotvax, 3, 'ptlvaxrate')
 totfullvax = getnum(ctytotvax, 4, 'totfullvax')
 fullvaxrate = getnum(ctytotvax, 5, 'fullvaxrate')
+tendays = ctycases.iloc[0:10, 2]
+tendaycases = tendays.values.tolist()
+tendaytotalcases = sum(tendaycases)
+tendaytotcases = str(tendaytotalcases)
+tendayrates = tendaytotalcases/193763*100000
+tendayrate = str(tendayrates)
 #before writing the data to the text files, we should first archive the current ones.
-newfilenamecty = (yesterday + "_county_data.txt")
+newfilenamecty = ("C:\\users\\aweidenhof\\Documents\\GitHub\\BEData\\DOH\\Data\\" + yesterday + "_county_data.txt")
 os.rename("new_county_data.txt", newfilenamecty)
 #putting county data in text form!
 updated = ("Updated: " + dayofweek + "\n" + "\n")
@@ -42,6 +48,8 @@ prtnewcase = ("New cases in Butler County: " + newcases + "\n")
 prtnewrate = ("New cases per 100k: " + newcaserate + "\n")
 prtsevenavg = ("Seven-day average: " + sevenavg + "\n")
 prtsevenavgrate = ("Seven-day average per 100k: " + sevenavgrate + "\n")
+prttendaycases = ("Ten-day new cases: " + tendaytotcases + "\n")
+prttendayrate = ("Ten-day cases per 100k: " + tendayrate + "\n")
 prtcumecases = ("Total cases in Butler county: " + newcases + "\n")
 prtcumecaserate = ("Total cases in Butler County per 100k: " + cumerate + "\n")
 prtnewptlvax = ("Newly partially vaccinated individuals: " + newptlvax + "\n")
@@ -57,25 +65,27 @@ ctyfile = open("new_county_data.txt", "w")
 ctyfile.write(prtcounty)
 ctyfile.close()
 ##getting shit ready for markdown
-mdheader = ("###Butler County COVID-19 data")
+mdheader = ("### Butler County COVID-19 data")
 lb = ("\n" + "\n")
-mdupdated = ("####Updated: " + dayofweek)
+mdupdated = ("#### Updated: " + dayofweek)
 mdnewcase = ("- New cases in Butler County: " + newcases)
 mdnewrate = ("- New cases per 100k: " + newcaserate)
 mdsevenavg = ("- Seven-day average: " + sevenavg)
 mdsevenavgrate = ("- Seven-day average per 100k: " + sevenavgrate)
+mdtendaycases = ("- Ten-day new cases: " + tendaytotcases)
+mdtendayrate = ("- Ten-day cases per 100k: " + tendayrate)
 mdcumecases = ("- Total cases in Butler County: " + cumecases)
 mdcumerate = ("- Cumulative incidence in Butler County: " + cumerate)
-vaxhead = "#####Vaccine data"
+vaxhead = "#### Vaccine data"
 mdnewptlvax = ("- Newly partially vaccinated individuals: " + newptlvax)
 mdtotptlvax = ("- Partially vaccinated individuals: " + totptlvax)
 mdptlvaxrate = ("- Partially vaccinated individuals per 100k: " + ptlvaxrate)
 mdnewfullvax = ("- Newly fully vaccinated individuals: " + newfullvax)
 mdfullvax = ("- Fully vaccinated individuals: " + totfullvax)
 mdfullvaxrate = ("- Fully vaccinated individuals per 100k: " + fullvaxrate)
-mdcounty = (mdheader + lb + lb + mdupdated + lb + mdnewcase + lb + mdnewrate + lb + mdsevenavg + lb + mdsevenavgrate + lb + mdcumecases + lb +
-            mdcumerate + lb + vaxhead + lb + lb + mdnewptlvax + lb + mdtotptlvax + lb + mdptlvaxrate + lb + mdnewfullvax + lb + mdfullvax + lb +
-            mdfullvaxrate)
+mdcounty = (mdheader + lb + lb + mdupdated + lb + mdnewcase + lb + mdnewrate + lb + mdsevenavg + lb + mdsevenavgrate + lb + mdtendaycases + lb + mdtendayrate + 
+            lb + mdcumecases + lb + mdcumerate + lb + vaxhead + lb + lb + mdnewptlvax + lb + mdtotptlvax + lb + mdptlvaxrate + lb + mdnewfullvax + lb + 
+            mdfullvax + lb + mdfullvaxrate)
 #writing markdown to readme
 ctymd = open(r"C:\Users\aweidenhof\Documents\GitHub\BEData\readme.md", "w")
 ctymd.write(mdcounty)
