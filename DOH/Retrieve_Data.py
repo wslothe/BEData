@@ -23,7 +23,7 @@ DOH.get_data(countydailyvax)
 DOH.get_data(countycumevax)
 DOH.get_data(zipcumevax)
 datestr = time.strftime("%Y%m%d")
-zcumevax = pd.read_csv(datestr + "_zip_cumulative_vax.csv")
+zcumevax = pd.read_csv("C:\\users\\aweidenhof\\Documents\\GitHub\\BEData\\DOH\\Data\\" + datestr + "_zip_cumulative_vax.csv")
 blankZips = [pd.Series([16018, None, None], index=['patient_zip_code', 'partiallycovered', 'fullycovered']),
              pd.Series([16035, None, None], index=['patient_zip_code', 'partiallycovered', 'fullycovered']),
              pd.Series([16036, None, None], index=['patient_zip_code', 'partiallycovered', 'fullycovered']),
@@ -32,7 +32,7 @@ blankZips = [pd.Series([16018, None, None], index=['patient_zip_code', 'partiall
 zcumevax = zcumevax.append(blankZips, ignore_index = True)
 zcumevax = zcumevax.sort_values('patient_zip_code')
 zcumevax = zcumevax.set_index('patient_zip_code')
-zcumevax.to_csv(datestr + "_zip_cumulative_vax.csv")
+zcumevax.to_csv("C:\\users\\aweidenhof\\Documents\\GitHub\\BEData\\DOH\\Data\\" + datestr + "_zip_cumulative_vax.csv")
 #writing population and rates to main zip files
 def execfile(filepath, globals=None, locals=None):
     if globals is None:
@@ -47,8 +47,8 @@ def execfile(filepath, globals=None, locals=None):
 execfile("census_and_rates.py")
 #combining zip files
 datestr = time.strftime("%Y%m%d")
-main_zip_name = (datestr + "_zip_code_cases.csv")
-zip_vax_name = (datestr + "_zip_cumulative_vax.csv")
+main_zip_name = ("C:\\users\\aweidenhof\\Documents\\GitHub\\BEData\\DOH\\Data\\" + datestr + "_zip_code_cases.csv")
+zip_vax_name = ("C:\\users\\aweidenhof\\Documents\\GitHub\\BEData\\DOH\\Data\\" + datestr + "_zip_cumulative_vax.csv")
 main_zip = pd.read_csv(main_zip_name)
 zip_vax = pd.read_csv(zip_vax_name)
 main_zip['Partially Covered'] = zip_vax['partiallycovered'].round(0)
@@ -61,7 +61,7 @@ main_zip = main_zip[['positive', 'negative', 'Cumulative Incidence', 'Partially 
                     'Partially Covered Rate', 'Fully Covered', 'Fully Covered Rate', 'Population']]
 main_zip = main_zip.rename(columns={'positive' : 'Positive', 'negative' : 'Negative'})
 #saving new zip file
-newzip_name = (datestr + "_zip_code_data.csv")
+newzip_name = ("C:\\users\\aweidenhof\\Documents\\GitHub\\BEData\\DOH\\Data\\" + datestr + "_zip_code_data.csv")
 main_zip.to_csv(newzip_name, index = True)
 #deleting old files
 os.remove(main_zip_name)

@@ -38,6 +38,7 @@ tendaycases = tendays.values.tolist()
 tendaytotalcases = sum(tendaycases)
 tendaytotcases = str(tendaytotalcases)
 tendayrates = tendaytotalcases/193763*100000
+tendayrates = round(tendayrates, 2)
 tendayrate = str(tendayrates)
 #before writing the data to the text files, we should first archive the current ones.
 newfilenamecty = ("C:\\users\\aweidenhof\\Documents\\GitHub\\BEData\\DOH\\Data\\" + yesterday + "_county_data.txt")

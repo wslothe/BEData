@@ -24,13 +24,13 @@ zipcodes.index = zipcodes.index.astype('int')
 zipcodes = zipcodes.sort_index()
 zipcodes = zipcodes.reset_index(drop = True)
 datestr = time.strftime("%Y%m%d")
-zip_cases_name = (datestr + "_zip_code_cases.csv")
+zip_cases_name = ("C:\\users\\aweidenhof\\Documents\\GitHub\\BEData\\DOH\\Data\\" + datestr + "_zip_code_cases.csv")
 zip_cases = pd.read_csv(zip_cases_name)
 zip_cases['Population'] = zipcodes['B01001_001E']
 zip_cases['Cumulative Incidence'] = zip_cases['positive']/zip_cases['Population']*100000
 zip_cases['Cumulative Incidence'] = zip_cases['Cumulative Incidence'].round(2)
 zip_cases.to_csv(zip_cases_name, index=False)
-zip_vax_name = (datestr + "_zip_cumulative_vax.csv")
+zip_vax_name = ("C:\\users\\aweidenhof\\Documents\\GitHub\\BEData\\DOH\\Data\\" + datestr + "_zip_cumulative_vax.csv")
 zip_vax = pd.read_csv(zip_vax_name)
 population = zipcodes['B01001_001E']
 zip_vax['Partially Covered Rate'] = zip_vax['partiallycovered']/population*100000

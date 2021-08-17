@@ -22,4 +22,4 @@ class DOH:
         self.dfname = client.get(self.ident, where=self.where, limit=self.limit, select=self.select, order=self.order)
         self.dfname = pd.DataFrame.from_dict(self.dfname)
         self.dfname = self.dfname.dropna()
-        self.dfname.to_csv(datestr + "_" + dfname + ".csv", index=False)
+        self.dfname.to_csv("C:\\users\\aweidenhof\\Documents\\GitHub\\BEData\\DOH\\Data\\" + datestr + "_" + dfname + ".csv", index=False)
