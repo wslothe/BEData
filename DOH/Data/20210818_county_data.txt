@@ -1,0 +1,14 @@
+Updated: Wednesday, Aug. 18, 2021
+
+New cases in Butler County: 37
+New cases per 100k: 19.7
+Seven-day average: 34.9
+Seven-day average per 100k: 18.6
+Total cases in Butler county: 37
+Total cases in Butler County per 100k: 9734.2
+Newly partially vaccinated individuals: 40
+Partially vaccinated individuals: 7340
+Partially vaccinated individuals per 100k: 3907.3
+Newly fully vaccinated individuals: 34
+Fully vaccinated individuals: 95694
+Fully vaccinated individuals per 100k: 50940.9
