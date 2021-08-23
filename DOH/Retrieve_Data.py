@@ -63,6 +63,18 @@ main_zip = main_zip.rename(columns={'positive' : 'Positive', 'negative' : 'Negat
 #saving new zip file
 newzip_name = ("C:\\users\\aweidenhof\\Documents\\GitHub\\BEData\\DOH\\Data\\" + datestr + "_zip_code_data.csv")
 main_zip.to_csv(newzip_name, index = True)
+#writing new information to our files
+def execfile(filepath, globals=None, locals=None):
+    if globals is None:
+        globals = {}
+    globals.update({
+        "__file__": filepath,
+        "__name__": "__main__",
+    })
+    with open(filepath, 'rb') as file:
+        exec(compile(file.read(), filepath, 'exec'), globals, locals)
+#execute the file
+execfile("tendayzip.py")
 #deleting old files
 os.remove(main_zip_name)
 os.remove(zip_vax_name)
